@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# React Form Validation Demo
+
+This is a simple demo app for showing how to do basic form validation in React.
+
+It includes a sign up form with email and password input fields and a sign up button.
 
 ## Available Scripts
 
